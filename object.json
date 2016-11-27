@@ -1,0 +1,21 @@
+[{
+        "id": 1,
+        "name": "aldo",
+        "color": "xhelilaj",
+        "year": 1990
+    },
+
+    {
+        "id": 2,
+        "name": "Volvo",
+        "color": "green",
+        "year": 2000
+    },
+
+    {
+        "id": 3,
+        "name": "Bmw",
+        "color": "dark blue",
+        "year": 2015
+    }
+]
